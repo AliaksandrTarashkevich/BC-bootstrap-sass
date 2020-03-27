@@ -1,0 +1,22 @@
+$regular-font-size: 16px;
+$theme-primary-color: rgb(53, 44, 177); 
+
+
+/* Bootstrap */
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1340px
+);
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1300px
+);
+
+$grid-gutter-width: 40px;
+$blue:    #208cff;
